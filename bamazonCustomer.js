@@ -2,9 +2,6 @@
 var mysql = require('mysql');
 var inquirer = require('inquirer');
 
-// npm init
-// npm install mysql
-// npm install inquirer
 
 // Connect to the database
 var connection = mysql.createConnection({
